@@ -1,6 +1,6 @@
 <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
-          <a class="nav-link" href="/index.php">
+          <a class="nav-link" href="index.php">
             <i class="fa fa-fw fa-dashboard"></i>
             <span class="nav-link-text">Dashboard</span>
           </a>
@@ -9,19 +9,19 @@
 
          if ($_SESSION['ACCOUNT_TYPE'] == 'Administrator'){
           echo '<li class="nav-item" data-toggle="tooltip" data-placement="right" title="Project">
-                  <a class="nav-link" href="/module/project/">
+                  <a class="nav-link" href="module/project/">
           <i class="fa fa-fw fa-book "></i>
                     <span class="nav-link-text">Project</span>
                   </a>
                 </li>
                 <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Expenses">
-          <a class="nav-link" href="/module/expenses/">
+          <a class="nav-link" href="module/expenses/">
          <i class="fa fa-money"></i>
             <span class="nav-link-text">Expenses</span>
           </a>
         </li>
          <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Supplier">
-          <a class="nav-link" href="/module/supplier/">
+          <a class="nav-link" href="module/supplier/">
             <i class="fa fa-address-book-o"></i>
             <span class="nav-link-text">Supplier</span>
           </a>
@@ -52,13 +52,13 @@
                   </a>
                 </li>
                 <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Expenses">
-                    <a class="nav-link" href="/module/expenses/">
+                    <a class="nav-link" href="module/expenses/">
           <i class="fa fa-money"></i>
                     <span class="nav-link-text">Expenses</span>
                   </a>
                 </li>
                  <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Supplier">
-                  <a class="nav-link" href="/module/supplier/">
+                  <a class="nav-link" href="module/supplier/">
                     
                     <i class="fa fa-address-book-o"></i>
                     <span class="nav-link-text">Supplier</span>
