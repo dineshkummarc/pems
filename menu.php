@@ -26,7 +26,6 @@
             <span class="nav-link-text">Supplier</span>
           </a>
         </li>
-     
        
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Settings">
           <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
@@ -63,21 +62,9 @@
                     <i class="fa fa-address-book-o"></i>
                     <span class="nav-link-text">Supplier</span>
                   </a>
-                </li>
-             
-       
-       
-                ';
+                </li>';
          }
-
-
-
          ?>
-        
-       
-
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
          
-      
-       
       </ul>
