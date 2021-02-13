@@ -26,7 +26,7 @@ require_once("include/initialize.php");
 
              </div>
             </div>
-            <a class="card-footer text-white clearfix small z-1" href="/module/project/">
+            <a class="card-footer text-white clearfix small z-1" href="module/project/">
               <span class="float-left">View Details</span>
               <span class="float-right">
                 <i class="fa fa-angle-right"></i>
